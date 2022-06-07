@@ -50,3 +50,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 [Create React App](https://github.com/alura-cursos/alura-studies/tree/Aula1)
 [React Fragment](https://pt-br.reactjs.org/docs/react-api.html#reactfragment)
 [Melhorando a performance das suas lista em React](https://cursos.alura.com.br/extra/alura-mais/melhore-a-performance-das-suas-listas-em-react-c1021)
+[Create Component Function](https://github.com/alura-cursos/alura-studies/tree/Aula2)
