@@ -47,9 +47,10 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## References
 
-[Create React App](https://github.com/alura-cursos/alura-studies/tree/Aula1)
+[Class 1](https://github.com/alura-cursos/alura-studies/tree/Aula1)
 [React Fragment](https://pt-br.reactjs.org/docs/react-api.html#reactfragment)
 [Melhorando a performance das suas lista em React](https://cursos.alura.com.br/extra/alura-mais/melhore-a-performance-das-suas-listas-em-react-c1021)
-[Create Component Function](https://github.com/alura-cursos/alura-studies/tree/Aula2)
+[Class 2](https://github.com/alura-cursos/alura-studies/tree/Aula2)
 [Plugin CSS Modules](https://www.npmjs.com/package/typescript-plugin-css-modules)
 [Adding a CSS Module Stylesheet](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
+[Class 3](https://github.com/alura-cursos/alura-studies/tree/Aula3)

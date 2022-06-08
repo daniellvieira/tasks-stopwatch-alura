@@ -27,7 +27,9 @@ class Form extends React.Component {
             max="01:30:00"
           />
         </div>
-        <div><Button /></div>
+        <div>
+          <Button>Adicionar</Button>
+        </div>
       </form>
     )
   }
