@@ -54,3 +54,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 [Plugin CSS Modules](https://www.npmjs.com/package/typescript-plugin-css-modules)
 [Adding a CSS Module Stylesheet](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
 [Class 3](https://github.com/alura-cursos/alura-studies/tree/Aula3)
+[List & Keys - React](https://pt-br.reactjs.org/docs/lists-and-keys.html#keys)
+[Class 4](https://github.com/alura-cursos/alura-studies/tree/Aula4)
