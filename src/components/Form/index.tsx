@@ -7,10 +7,10 @@ class Form extends React.Component {
     return (
       <form className={style.newTask}>
         <div className={style.inputContainer}>
-          <label htmlFor="time">Adicionar um novo estudo</label>
+          <label htmlFor="name">Adicionar um novo estudo</label>
           <input
             type="text"
-            name="Tarefa"
+            name="name"
             id="task"
             placeholder="O que você quer estudar?"
             required
@@ -21,7 +21,7 @@ class Form extends React.Component {
           <input
             type="time"
             step="1"
-            name="Tempo"
+            name="time"
             id="time"
             min="00:00:00"
             max="01:30:00"

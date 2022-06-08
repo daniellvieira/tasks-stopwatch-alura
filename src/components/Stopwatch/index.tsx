@@ -5,9 +5,9 @@ import style from './Stopwatch.module.scss'
 
 const Stopwatch = () => {
   return (
-    <div className={style.cronometro}>
-      <p className={style.titulo}>Escolha um card e inicie o cronômetro</p>
-      <div className={style.relogioWrapper}>
+    <div className={style.stopwatch}>
+      <p className={style.title}>Escolha um card e inicie o cronômetro</p>
+      <div className={style.watchWrapper}>
         <Watch />
       </div>
       <Button>Começar!</Button>

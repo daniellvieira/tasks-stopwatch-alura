@@ -1,7 +1,7 @@
 .newTask {
-  display:flex;
+  display: flex;
   flex-direction: column;
-  grid-area: nova-tarefa;
+  grid-area: new-task;
   background-color: #7687A1;
   border-radius: 10px;
   box-shadow: 2px 4px 4px #0000009F;
@@ -42,14 +42,14 @@
     box-sizing: border-box;
 
     .inputContainer {
-      width: calc(60% - 12px);
+      width: calc(50% - 12px);
 
       &:last-of-type {
         width: 40%;
       }
 
       label {
-        font-size: 2rem;
+        font-size: 1.75rem;
       }
 
       input {
