@@ -22,7 +22,7 @@ const Stopwatch = ({ selected }: Props) => {
     <div className={style.stopwatch}>
       <p className={style.title}>Escolha um card e inicie o cronômetro</p>
       <div className={style.watchWrapper}>
-        <Watch />
+        <Watch time={time} />
       </div>
       <Button>Começar!</Button>
     </div>

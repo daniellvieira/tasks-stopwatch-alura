@@ -58,3 +58,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 [Class 4](https://github.com/alura-cursos/alura-studies/tree/Aula4)
 [Class 5](https://github.com/alura-cursos/alura-studies/tree/Aula5)
 [Class 6](https://github.com/alura-cursos/alura-studies/tree/Aula6)
+[Ciclo de vida de um componente](https://pt-br.reactjs.org/docs/react-component.html)
