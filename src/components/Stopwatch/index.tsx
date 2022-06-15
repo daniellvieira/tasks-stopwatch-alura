@@ -2,6 +2,7 @@ import React from 'react'
 import Button from '../Button'
 import Watch from './Watch'
 import style from './Stopwatch.module.scss'
+import { timeToSeconds } from '../../common/utils/date'
 
 const Stopwatch = () => {
   return (
