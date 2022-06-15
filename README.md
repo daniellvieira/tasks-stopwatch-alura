@@ -57,3 +57,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 [List & Keys - React](https://pt-br.reactjs.org/docs/lists-and-keys.html#keys)
 [Class 4](https://github.com/alura-cursos/alura-studies/tree/Aula4)
 [Class 5](https://github.com/alura-cursos/alura-studies/tree/Aula5)
+[Class 6](https://github.com/alura-cursos/alura-studies/tree/Aula6)
