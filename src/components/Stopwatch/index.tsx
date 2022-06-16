@@ -18,13 +18,24 @@ const Stopwatch = ({ selected }: Props) => {
     };
   }, [selected])
 
+  function countdown(counter: number = 0) {
+    setTimeout(() => {
+      if (counter > 0) {
+        setTime(counter - 1);
+        return countdown(counter - 1);
+      }
+    }, 1000)
+  };
+
   return (
     <div className={style.stopwatch}>
       <p className={style.title}>Escolha um card e inicie o cronômetro</p>
       <div className={style.watchWrapper}>
         <Watch time={time} />
       </div>
-      <Button>Começar!</Button>
+      <Button onClick={() => countdown(time)}>
+        Começar!
+      </Button>
     </div>
   )
 }
