@@ -6,10 +6,11 @@ import { timeToSeconds } from '../../common/utils/time'
 import { ITask } from '../../types/task'
 
 interface Props {
-  selected: ITask | undefined
+  selected: ITask | undefined,
+  finishTask: () => void,
 }
 
-const Stopwatch = ({ selected }: Props) => {
+const Stopwatch = ({ selected, finishTask }: Props) => {
   const [time, setTime] = useState<number>();
 
   useEffect(() => {
@@ -24,6 +25,7 @@ const Stopwatch = ({ selected }: Props) => {
         setTime(counter - 1);
         return countdown(counter - 1);
       }
+      finishTask();
     }, 1000)
   };
 
