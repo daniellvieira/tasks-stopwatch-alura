@@ -1,6 +1,6 @@
 # Tasks Stopwatch
 
-This project was created during my studies about TypeScrypt when i was watching the course "React com TypeScript" in the [Alura](https://www.alura.com.br/).
+This project was created during my studies about TypeScrypt when I was watching the course "React com TypeScript" in the [Alura](https://www.alura.com.br/).
 
 We can see the original project here: [alura-studies](https://github.com/alura-cursos/alura-studies/tree/main)
 
