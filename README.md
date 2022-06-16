@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Tasks Stopwatch
 
 This project was created during my studies about TypeScrypt when i was watching the course "React: escrevendo com Typescript" in the [Alura](https://www.alura.com.br/).
 
@@ -22,16 +22,28 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## References
 
-[Create React App](https://github.com/facebook/create-react-app).
+[Create React App](https://github.com/facebook/create-react-app)
+
 [Class 1](https://github.com/alura-cursos/alura-studies/tree/Aula1)
+
 [React Fragment](https://pt-br.reactjs.org/docs/react-api.html#reactfragment)
+
 [Melhorando a performance das suas lista em React](https://cursos.alura.com.br/extra/alura-mais/melhore-a-performance-das-suas-listas-em-react-c1021)
+
 [Class 2](https://github.com/alura-cursos/alura-studies/tree/Aula2)
+
 [Plugin CSS Modules](https://www.npmjs.com/package/typescript-plugin-css-modules)
+
 [Adding a CSS Module Stylesheet](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
+
 [Class 3](https://github.com/alura-cursos/alura-studies/tree/Aula3)
+
 [List & Keys - React](https://pt-br.reactjs.org/docs/lists-and-keys.html#keys)
+
 [Class 4](https://github.com/alura-cursos/alura-studies/tree/Aula4)
+
 [Class 5](https://github.com/alura-cursos/alura-studies/tree/Aula5)
+
 [Class 6](https://github.com/alura-cursos/alura-studies/tree/Aula6)
+
 [Ciclo de vida de um componente](https://pt-br.reactjs.org/docs/react-component.html)

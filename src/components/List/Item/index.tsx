@@ -21,7 +21,7 @@ function Item({name, time, selected, completed, id, selectTask}: Props) {
       <h3>{name}</h3>
       <span>{time}</span>
       { completed &&
-          <span className={style.completed} arial-Label="Tarefa completada"></span>
+          <span className={style.completed}></span>
       }
     </li>
   )
